@@ -23,8 +23,8 @@ My goal is to constantly develop myself in order to grow in my income. My experi
 
 -----
 ## Education
-* __College:__ Multidisciplinary College
-* __University:__ Volga State Technological University
+* __College:__ _Multidisciplinary College_
+* __University:__ _Volga State Technological University_
 * __Courses:__
 
 ------
