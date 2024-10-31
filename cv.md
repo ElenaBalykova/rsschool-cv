@@ -17,14 +17,12 @@ My goal is to constantly develop myself in order to grow in my income. My experi
 * Java Script
 * VS Code, phpstorm, Atom
 * Laravel 5.5
-## Code Example
-
-__Solution__
 
 -----
 ## Work Experience
 
 -----
+## Education
 * __College:__ Multidisciplinary College
 * __University:__ Volga State Technological University
 * __Courses:__
