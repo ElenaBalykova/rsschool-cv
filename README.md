@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ElenaBalykova.github.io/rsschool-cv/cv
